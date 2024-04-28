@@ -28,6 +28,9 @@ $ composer install
 # install app's dependencies
 $ npm install
 
+# install app's dependencies
+$ npm run dev
+
 ```
 
 ### If you choice to use SQLite
