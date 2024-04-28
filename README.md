@@ -17,7 +17,7 @@ The Laravel Admin Dashboard is a web-based application that serves as a starting
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-laravel-admin-template.git my-project
+$ git clone https://github.com/subrata6630/laravel-dashboard my-project
 
 # go into app's directory
 $ cd my-project
